@@ -41,7 +41,7 @@
 							<div class="header-search">
 								<form>
 									<select class="input-select">
-										<option value="0">All Categories</option>
+										<option value="0">All Categoriess</option>
 										<option value="1">Category 01</option>
 										<option value="1">Category 02</option>
 									</select>

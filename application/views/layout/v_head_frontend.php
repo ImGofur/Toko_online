@@ -1,38 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-		<title>MOHAMMAD ABDUL GOFUR</title>
-
-		<!-- Google font -->
-		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
-
-		<!-- Bootstrap -->
-		<link type="text/css" rel="stylesheet" href="<?= base_url()?>template/electro-master/css/bootstrap.min.css"/>
-
-		<!-- Slick -->
-		<link type="text/css" rel="stylesheet" href="<?= base_url()?>template/electro-master/css/slick.css"/>
-		<link type="text/css" rel="stylesheet" href="<?= base_url()?>template/electro-master/css/slick-theme.css"/>
-
-		<!-- nouislider -->
-		<link type="text/css" rel="stylesheet" href="<?= base_url()?>template/electro-master/css/nouislider.min.css"/>
-
-		<!-- Font Awesome Icon -->
-		<link rel="stylesheet" href="<?= base_url()?>template/electro-master/css/font-awesome.min.css">
-
-		<!-- Custom stlylesheet -->
-		<link type="text/css" rel="stylesheet" href="<?= base_url()?>template/electro-master/css/style.css"/>
-
-		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-		<!--[if lt IE 9]>
-		  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<![endif]-->
-
-    </head>
 	
+	<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!-- Meta -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<meta name="keywords" content="MediaCenter, Template, eCommerce">
+<meta name="robots" content="all">
+<title>Marazzo premium HTML5 & CSS3 Template</title>
+
+<!-- Bootstrap Core CSS -->
+<link rel="stylesheet" href="<?= base_url()?>template/Marazzo/assets/css/bootstrap.min.css">
+
+<!-- Customizable CSS -->
+<link rel="stylesheet" href="<?= base_url()?>template/Marazzo/assets/css/main.css">
+<link rel="stylesheet" href="<?= base_url()?>template/Marazzo/assets/css/blue.css">
+<link rel="stylesheet" href="<?= base_url()?>template/Marazzo/assets/css/owl.carousel.css">
+<link rel="stylesheet" href="<?= base_url()?>template/Marazzo/assets/css/owl.transitions.css">
+<link rel="stylesheet" href="<?= base_url()?>template/Marazzo/assets/css/animate.min.css">
+<link rel="stylesheet" href="<?= base_url()?>template/Marazzo/assets/css/rateit.css">
+<link rel="stylesheet" href="<?= base_url()?>template/Marazzo/assets/css/bootstrap-select.min.css">
+
+<!-- Icons/Glyphs -->
+<link rel="stylesheet" href="<?= base_url()?>template/Marazzo/assets/css/font-awesome.css">
+
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Barlow:200,300,300i,400,400i,500,500i,600,700,800" rel="stylesheet">
+<link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,600italic,700,700italic,800' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+</head>

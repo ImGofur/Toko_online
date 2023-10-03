@@ -13,7 +13,11 @@
   <link rel="stylesheet" href="<?= base_url()?>template/admin/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="<?= base_url()?>template/admin/dist/css/adminlte.min.css">
-</head>
+
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+  </head>
+
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
@@ -63,6 +67,11 @@
             </div>
           </div>
         </div>
+
+        <div class="mb-3">
+                 <div class="g-recaptcha" data-sitekey="6LcTnkAoAAAAAJcZ1aMf0lyuXfcFCWYoFg41OPHW"></div>
+      </div>
+
         <div class="row">
           <div class="col-8">
             <div class="icheck-primary">
@@ -72,14 +81,16 @@
               </label>
             </div>
           </div>
+        
           <!-- /.col -->
+
           <div class="col-4">
             <button type="submit" class="btn btn-primary btn-block">Log In</button>
           </div>
           <!-- /.col -->
         </div>
       </form>
-       <?php echo form_close()?>
+      
       
       <!-- /.social-auth-links -->
 

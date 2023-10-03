@@ -1,107 +1,145 @@
-<!-- FOOTER -->
-<footer id="footer">
-			<!-- top footer -->
-			<div class="section">
-				<!-- container -->
-				<div class="container">
-					<!-- row -->
-					<div class="row">
-						<div class="col-md-3 col-xs-6">
-							<div class="footer">
-								<h3 class="footer-title">About Us</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-								<ul class="footer-links">
-									<li><a href="#"><i class="fa fa-map-marker"></i>1734 Stonecoal Road</a></li>
-									<li><a href="#"><i class="fa fa-phone"></i>+021-95-51-84</a></li>
-									<li><a href="#"><i class="fa fa-envelope-o"></i>email@email.com</a></li>
-								</ul>
-							</div>
-						</div>
 
-						<div class="col-md-3 col-xs-6">
-							<div class="footer">
-								<h3 class="footer-title">Categories</h3>
-								<ul class="footer-links">
-									<li><a href="#">Hot deals</a></li>
-									<li><a href="#">Laptops</a></li>
-									<li><a href="#">Smartphones</a></li>
-									<li><a href="#">Cameras</a></li>
-									<li><a href="#">Accessories</a></li>
-								</ul>
-							</div>
-						</div>
+<!-- ============================================================= FOOTER ============================================================= -->
+<footer id="footer" class="footer color-bg">
+  <div class="footer-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-3">
+        <div class="address-block">
+        
+          <!-- /.module-heading -->
+          
+          <div class="module-body">
+            <ul class="toggle-footer" style="">
+              <li class="media">
+                <div class="pull-left"> <span class="icon fa-stack fa-lg"> <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i> </span> </div>
+                <div class="media-body">
+                  <p>ThemesGround, 789 Main rd, Anytown, CA 12345 USA</p>
+                </div>
+              </li>
+              <li class="media">
+                <div class="pull-left"> <span class="icon fa-stack fa-lg"> <i class="fa fa-mobile fa-stack-1x fa-inverse"></i> </span> </div>
+                <div class="media-body">
+                  <p> + (888) 123-4567 / + (888) 456-7890</p>
+                </div>
+              </li>
+              <li class="media">
+                <div class="pull-left"> <span class="icon fa-stack fa-lg"> <i class="fa fa-envelope fa-stack-1x fa-inverse"></i> </span> </div>
+                <div class="media-body"> <span><a href="#">marazzo@themesground.com</a></span> </div>
+              </li>
+            </ul>
+          </div>
+          </div>
+          <!-- /.module-body --> 
+        </div>
+        <!-- /.col -->
+        
+        <div class="col-xs-12 col-sm-6 col-md-3">
+          <div class="module-heading">
+            <h4 class="module-title">Customer Service</h4>
+          </div>
+          <!-- /.module-heading -->
+          
+          <div class="module-body">
+            <ul class='list-unstyled'>
+              <li class="first"><a href="#" title="Contact us">My Account</a></li>
+              <li><a href="#" title="About us">Order History</a></li>
+              <li><a href="#" title="faq">FAQ</a></li>
+              <li><a href="#" title="Popular Searches">Specials</a></li>
+              <li class="last"><a href="#" title="Where is my order?">Help Center</a></li>
+            </ul>
+          </div>
+          <!-- /.module-body --> 
+        </div>
+        <!-- /.col -->
+        
+        <div class="col-xs-12 col-sm-6 col-md-3">
+          <div class="module-heading">
+            <h4 class="module-title">Corporation</h4>
+          </div>
+          <!-- /.module-heading -->
+          
+          <div class="module-body">
+            <ul class='list-unstyled'>
+              <li class="first"><a title="Your Account" href="#">About us</a></li>
+              <li><a title="Information" href="#">Customer Service</a></li>
+              <li><a title="Addresses" href="#">Company</a></li>
+              <li><a title="Addresses" href="#">Investor Relations</a></li>
+              <li class="last"><a title="Orders History" href="#">Advanced Search</a></li>
+            </ul>
+          </div>
+          <!-- /.module-body --> 
+        </div>
+        <!-- /.col -->
+        
+        <div class="col-xs-12 col-sm-6 col-md-3">
+          <div class="module-heading">
+            <h4 class="module-title">Why Choose Us</h4>
+          </div>
+          <!-- /.module-heading -->
+          
+          <div class="module-body">
+            <ul class='list-unstyled'>
+              <li class="first"><a href="#" title="About us">Shopping Guide</a></li>
+              <li><a href="#" title="Blog">Blog</a></li>
+              <li><a href="#" title="Company">Company</a></li>
+              <li><a href="#" title="Investor Relations">Investor Relations</a></li>
+              <li class=" last"><a href="contact-us.html" title="Suppliers">Contact Us</a></li>
+            </ul>
+          </div>
+          <!-- /.module-body --> 
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="copyright-bar">
+    <div class="container">
+      <div class="col-xs-12 col-sm-4 no-padding social">
+        <ul class="link">
+          <li class="fb pull-left"><a target="_blank" rel="nofollow" href="#" title="Facebook"></a></li>
+          <li class="tw pull-left"><a target="_blank" rel="nofollow" href="#" title="Twitter"></a></li>
+          <li class="googleplus pull-left"><a target="_blank" rel="nofollow" href="#" title="GooglePlus"></a></li>
+          <li class="rss pull-left"><a target="_blank" rel="nofollow" href="#" title="RSS"></a></li>
+          <li class="pintrest pull-left"><a target="_blank" rel="nofollow" href="#" title="PInterest"></a></li>
+          <li class="linkedin pull-left"><a target="_blank" rel="nofollow" href="#" title="Linkedin"></a></li>
+          <li class="youtube pull-left"><a target="_blank" rel="nofollow" href="#" title="Youtube"></a></li>
+        </ul>
+      </div>
+      <div class="col-xs-12 col-sm-4 no-padding copyright"><a target="_blank" href="https://www.templateshub.net">Templates Hub</a> </div>
+      <div class="col-xs-12 col-sm-4 no-padding">
+        <div class="clearfix payment-methods">
+          <ul>
+            <li><img src="<?= base_url()?>template/Marazzo/assets/images/payments/1.png" alt=""></li>
+            <li><img src="<?= base_url()?>template/Marazzo/assets/images/payments/2.png" alt=""></li>
+            <li><img src="<?= base_url()?>template/Marazzo/assets/images/payments/3.png" alt=""></li>
+            <li><img src="<?= base_url()?>template/Marazzo/assets/images/payments/4.png" alt=""></li>
+            <li><img src="<?= base_url()?>template/Marazzo/assets/images/payments/5.png" alt=""></li>
+          </ul>
+        </div>
+        <!-- /.payment-methods --> 
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- ============================================================= FOOTER : END============================================================= --> 
 
-						<div class="clearfix visible-xs"></div>
+<!-- For demo purposes – can be removed on production --> 
 
-						<div class="col-md-3 col-xs-6">
-							<div class="footer">
-								<h3 class="footer-title">Information</h3>
-								<ul class="footer-links">
-									<li><a href="#">About Us</a></li>
-									<li><a href="#">Contact Us</a></li>
-									<li><a href="#">Privacy Policy</a></li>
-									<li><a href="#">Orders and Returns</a></li>
-									<li><a href="#">Terms & Conditions</a></li>
-								</ul>
-							</div>
-						</div>
+<!-- For demo purposes – can be removed on production : End --> 
 
-						<div class="col-md-3 col-xs-6">
-							<div class="footer">
-								<h3 class="footer-title">Service</h3>
-								<ul class="footer-links">
-									<li><a href="#">My Account</a></li>
-									<li><a href="#">View Cart</a></li>
-									<li><a href="#">Wishlist</a></li>
-									<li><a href="#">Track My Order</a></li>
-									<li><a href="#">Help</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<!-- /row -->
-				</div>
-				<!-- /container -->
-			</div>
-			<!-- /top footer -->
+<!-- JavaScripts placed at the end of the document so the pages load faster --> 
+<script src="<?= base_url()?>template/Marazzo/assets/js/jquery-1.11.1.min.js"></script> 
+<script src="<?= base_url()?>template/Marazzo/assets/js/bootstrap.min.js"></script> 
+<script src="<?= base_url()?>template/Marazzo/assets/js/bootstrap-hover-dropdown.min.js"></script> 
+<script src="<?= base_url()?>template/Marazzo/assets/js/owl.carousel.min.js"></script> 
+<script src="<?= base_url()?>template/Marazzo/assets/js/echo.min.js"></script> 
+<script src="<?= base_url()?>template/Marazzo/assets/js/jquery.easing-1.3.min.js"></script> 
+<script src="<?= base_url()?>template/Marazzo/assets/js/bootstrap-slider.min.js"></script> 
+<script src="<?= base_url()?>template/Marazzo/assets/js/jquery.rateit.min.js"></script> 
+<script src="<?= base_url()?>template/Marazzo/assets/js/lightbox.min.js"></script> 
+<script src="<?= base_url()?>template/Marazzo/assets/js/bootstrap-select.min.js"></script> 
+<script src="<?= base_url()?>template/Marazzo/assets/js/wow.min.js"></script> 
+<script src="<?= base_url()?>template/Marazzo/assets/js/scripts.js"></script>
+</body>
 
-			<!-- bottom footer -->
-			<div id="bottom-footer" class="section">
-				<div class="container">
-					<!-- row -->
-					<div class="row">
-						<div class="col-md-12 text-center">
-							<ul class="footer-payments">
-								<li><a href="#"><i class="fa fa-cc-visa"></i></a></li>
-								<li><a href="#"><i class="fa fa-credit-card"></i></a></li>
-								<li><a href="#"><i class="fa fa-cc-paypal"></i></a></li>
-								<li><a href="#"><i class="fa fa-cc-mastercard"></i></a></li>
-								<li><a href="#"><i class="fa fa-cc-discover"></i></a></li>
-								<li><a href="#"><i class="fa fa-cc-amex"></i></a></li>
-							</ul>
-							<span class="copyright">
-								<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-								Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-							</span>
-						</div>
-					</div>
-						<!-- /row -->
-				</div>
-				<!-- /container -->
-			</div>
-			<!-- /bottom footer -->
-		</footer>
-		<!-- /FOOTER -->
-        <!-- jQuery Plugins -->
-	    <script src="<?= base_url()?>template/electro-master/js/jquery.min.js"></script>
-		<script src="<?= base_url()?>template/electro-master/js/bootstrap.min.js"></script>
-		<script src="<?= base_url()?>template/electro-master/js/slick.min.js"></script>
-		<script src="<?= base_url()?>template/electro-master/js/nouislider.min.js"></script>
-		<script src="<?= base_url()?>template/electro-master/js/jquery.zoom.min.js"></script>
-		<script src="<?= base_url()?>template/electro-master/js/main.js"></script>
-
-
-		
-	</body>
 </html>
